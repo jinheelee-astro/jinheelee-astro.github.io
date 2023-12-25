@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jinheelee-astro.github.io/al-folio/sitemap.xml
+Sitemap: https://jinheelee-astro.github.io/sitemap.xml
